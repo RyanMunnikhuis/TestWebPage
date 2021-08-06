@@ -9,6 +9,8 @@ navbar:
       href: index.html
     - text: "About"
       href: about.html
+    - text: "CV"
+      href: CV.html 
       
 site: distill::distill_website
 ---
