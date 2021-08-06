@@ -1,7 +1,7 @@
 ---
-title: "My Website"
+title: "Ryan Munnikhuis"
 description: |
-  Welcome to the website. I hope you enjoy it!
+  Ryan lives here. 
 output_dir: "docs"
 navbar: 
   right: 
