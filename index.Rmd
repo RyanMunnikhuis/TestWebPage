@@ -9,8 +9,7 @@ links:
   - label: Email
     url: "mailto:Rmunnikh@gmail.com"
 output:
-  postcards::jolla
-site: distill::distill_website
+  site: distill::distill_website
 ---
  
-Hi there! I am master's in environmental data science graduate student through the Bren School of Environmental Science & Management at the University of California, Santa Barbara. 
+Hi there! I am environmental data science graduate student at University of California, Santa Barbara's Bren School of Environmental Science & Management.
