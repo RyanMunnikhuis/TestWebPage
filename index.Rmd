@@ -9,7 +9,7 @@ links:
   - label: Email
     url: "mailto:Rmunnikh@gmail.com"
 output:
-  site: distill::distill_website
+site: distill::distill_website
 ---
  
 Hi there! I am environmental data science graduate student at University of California, Santa Barbara's Bren School of Environmental Science & Management.

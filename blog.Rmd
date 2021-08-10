@@ -1,4 +1,7 @@
 ---
 title: "My Blog"
-listing: posts
+listing: 
+  posts:
+    - hello
+    - a-function-i-learned
 ---
